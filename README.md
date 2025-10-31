@@ -37,7 +37,7 @@ To view the form, simply open `index.html` in any modern web browser.
 
 **Note:** This file contains only the front-end structure. A backend system is required to process the form submission (indicated by `<form action="submit">`).
 
-Or you use the link to view it in your browaser.
+Or you use the link to view it in your browser.
 
 
 ## 📜 Authorship and License
