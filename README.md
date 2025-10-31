@@ -22,13 +22,12 @@ This is the front-end HTML structure form for ILAC Education Group, designed to 
 
 ## 📂 Project File Structure
 
-NEWREQFORM/
-├── images/
-│   ├── ILAC-logo.png             \# ILAC logo image (likely for a header/footer)
-│   └── maple-leaf-icon-symbol-for-pictogram-we... \# Favicon/Icon
-├── style/
-│   └── style.css                 \# External stylesheet for layout and design
-└── index.html                    \# The main Group Quote Request Form HTML
+NEWREQFORM/ <br>
+├── images/ <br>
+│   └── maple-leaf-icon-symbol-for-pictogram-we... \# Favicon/Icon <br>
+├── style/ 
+│   └── style.css   <br>              
+└── index.html                    
 
 
 
