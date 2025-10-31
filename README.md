@@ -42,6 +42,6 @@ Or you use the link to view it in your browser.
 
 ## 📜 Authorship and License
 
-The content of this project is the intellectual property of **[Julia Marques Batista]**.
+The content of this project is the intellectual property of **Julia Marques Batista**.
 This project is licensed under the **[MIT/BSD] License**. You must include the original copyright and license notice when using or distributing this code. See the full [LICENSE](LICENSE.md) file for details.
 
