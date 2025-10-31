@@ -25,7 +25,7 @@ This is the front-end HTML structure form for ILAC Education Group, designed to 
 NEWREQFORM/ <br>
 ├── images/ <br>
 │   └── maple-leaf-icon-symbol-for-pictogram-we... \# Favicon/Icon <br>
-├── style/ 
+├── style/ <br>
 │   └── style.css   <br>              
 └── index.html                    
 
